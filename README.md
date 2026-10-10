@@ -1,4 +1,4 @@
-<图片 width="1920" height="1169" alt="2026042510473344" src=“https://github.com/user-attachments/assets/f055d7ad-a3e7-44a5-8d6d-0b4d6b26daeb” /># 开源运营版 招聘系统源码 招聘求职小程序源码-ym7k
+# 开源运营版 招聘系统源码 招聘求职小程序源码-ym7k
 
 获取源码：ym7k.com/11804/开源运营版 招聘系统源码 招聘求职小程序源码-ym7k
 
@@ -32,5 +32,3 @@ ThinkPHP 6.x的中间件机制是架构设计的核心亮点。系统注册了�
 六、小结
 ThinkPHP 6.x以其轻量级、高性能、易扩展的特性，为招聘管理系统的后端开发提供了坚实的技术底座。合理的分层架构与中间件设计，不仅提升了开发效率，也为系统的长期演进预留了充分空间。
 
-<图片 width="1459" height="579" alt="20260425104715100" src="https://github.com/user-attachments/assets/aa5c71e8-23d3-4b4c-93bd-e0af17b0a5c8" />
-![正在上传 2026042510473344.png…]()
